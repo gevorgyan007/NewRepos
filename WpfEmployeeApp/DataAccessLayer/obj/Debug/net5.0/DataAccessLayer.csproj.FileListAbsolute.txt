@@ -1,0 +1,11 @@
+C:\Users\tarong\source\repos\WpfEmployeeApp\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\tarong\source\repos\WpfEmployeeApp\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\tarong\source\repos\WpfEmployeeApp\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\tarong\source\repos\WpfEmployeeApp\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\tarong\source\repos\WpfEmployeeApp\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarong\source\repos\WpfEmployeeApp\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\tarong\source\repos\WpfEmployeeApp\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\tarong\source\repos\WpfEmployeeApp\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\tarong\source\repos\WpfEmployeeApp\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\tarong\source\repos\WpfEmployeeApp\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\tarong\source\repos\WpfEmployeeApp\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb

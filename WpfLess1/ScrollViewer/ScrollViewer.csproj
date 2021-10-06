@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="down.png" />
+    <None Remove="page_down.png" />
+    <None Remove="page_up.png" />
+    <None Remove="up.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="down.png" />
+    <Resource Include="page_down.png" />
+    <Resource Include="page_up.png" />
+    <Resource Include="up.png" />
+  </ItemGroup>
+
+</Project>

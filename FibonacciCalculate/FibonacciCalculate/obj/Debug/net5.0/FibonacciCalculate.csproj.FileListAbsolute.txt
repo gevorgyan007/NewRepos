@@ -1,0 +1,16 @@
+C:\Users\tarong\source\repos\FibonacciCalculate\FibonacciCalculate\bin\Debug\net5.0\FibonacciCalculate.exe
+C:\Users\tarong\source\repos\FibonacciCalculate\FibonacciCalculate\bin\Debug\net5.0\FibonacciCalculate.deps.json
+C:\Users\tarong\source\repos\FibonacciCalculate\FibonacciCalculate\bin\Debug\net5.0\FibonacciCalculate.runtimeconfig.json
+C:\Users\tarong\source\repos\FibonacciCalculate\FibonacciCalculate\bin\Debug\net5.0\FibonacciCalculate.runtimeconfig.dev.json
+C:\Users\tarong\source\repos\FibonacciCalculate\FibonacciCalculate\bin\Debug\net5.0\FibonacciCalculate.dll
+C:\Users\tarong\source\repos\FibonacciCalculate\FibonacciCalculate\bin\Debug\net5.0\ref\FibonacciCalculate.dll
+C:\Users\tarong\source\repos\FibonacciCalculate\FibonacciCalculate\bin\Debug\net5.0\FibonacciCalculate.pdb
+C:\Users\tarong\source\repos\FibonacciCalculate\FibonacciCalculate\obj\Debug\net5.0\FibonacciCalculate.csproj.AssemblyReference.cache
+C:\Users\tarong\source\repos\FibonacciCalculate\FibonacciCalculate\obj\Debug\net5.0\FibonacciCalculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarong\source\repos\FibonacciCalculate\FibonacciCalculate\obj\Debug\net5.0\FibonacciCalculate.AssemblyInfoInputs.cache
+C:\Users\tarong\source\repos\FibonacciCalculate\FibonacciCalculate\obj\Debug\net5.0\FibonacciCalculate.AssemblyInfo.cs
+C:\Users\tarong\source\repos\FibonacciCalculate\FibonacciCalculate\obj\Debug\net5.0\FibonacciCalculate.csproj.CoreCompileInputs.cache
+C:\Users\tarong\source\repos\FibonacciCalculate\FibonacciCalculate\obj\Debug\net5.0\FibonacciCalculate.dll
+C:\Users\tarong\source\repos\FibonacciCalculate\FibonacciCalculate\obj\Debug\net5.0\ref\FibonacciCalculate.dll
+C:\Users\tarong\source\repos\FibonacciCalculate\FibonacciCalculate\obj\Debug\net5.0\FibonacciCalculate.pdb
+C:\Users\tarong\source\repos\FibonacciCalculate\FibonacciCalculate\obj\Debug\net5.0\FibonacciCalculate.genruntimeconfig.cache

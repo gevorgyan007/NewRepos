@@ -1,0 +1,17 @@
+C:\Users\tarong\source\repos\PrismApp\FirstProj\bin\Debug\net5.0-windows\FirstProj.deps.json
+C:\Users\tarong\source\repos\PrismApp\FirstProj\bin\Debug\net5.0-windows\FirstProj.dll
+C:\Users\tarong\source\repos\PrismApp\FirstProj\bin\Debug\net5.0-windows\ref\FirstProj.dll
+C:\Users\tarong\source\repos\PrismApp\FirstProj\bin\Debug\net5.0-windows\FirstProj.pdb
+C:\Users\tarong\source\repos\PrismApp\FirstProj\obj\Debug\net5.0-windows\FirstProj.csproj.AssemblyReference.cache
+C:\Users\tarong\source\repos\PrismApp\FirstProj\obj\Debug\net5.0-windows\UserControl1.g.cs
+C:\Users\tarong\source\repos\PrismApp\FirstProj\obj\Debug\net5.0-windows\FirstProj_MarkupCompile.cache
+C:\Users\tarong\source\repos\PrismApp\FirstProj\obj\Debug\net5.0-windows\FirstProj_MarkupCompile.lref
+C:\Users\tarong\source\repos\PrismApp\FirstProj\obj\Debug\net5.0-windows\UserControl1.baml
+C:\Users\tarong\source\repos\PrismApp\FirstProj\obj\Debug\net5.0-windows\FirstProj.g.resources
+C:\Users\tarong\source\repos\PrismApp\FirstProj\obj\Debug\net5.0-windows\FirstProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarong\source\repos\PrismApp\FirstProj\obj\Debug\net5.0-windows\FirstProj.AssemblyInfoInputs.cache
+C:\Users\tarong\source\repos\PrismApp\FirstProj\obj\Debug\net5.0-windows\FirstProj.AssemblyInfo.cs
+C:\Users\tarong\source\repos\PrismApp\FirstProj\obj\Debug\net5.0-windows\FirstProj.csproj.CoreCompileInputs.cache
+C:\Users\tarong\source\repos\PrismApp\FirstProj\obj\Debug\net5.0-windows\FirstProj.dll
+C:\Users\tarong\source\repos\PrismApp\FirstProj\obj\Debug\net5.0-windows\ref\FirstProj.dll
+C:\Users\tarong\source\repos\PrismApp\FirstProj\obj\Debug\net5.0-windows\FirstProj.pdb

@@ -1,0 +1,16 @@
+C:\Users\tarong\source\repos\FibonacciCalculate\Reader\bin\Debug\net5.0\Reader.exe
+C:\Users\tarong\source\repos\FibonacciCalculate\Reader\bin\Debug\net5.0\Reader.deps.json
+C:\Users\tarong\source\repos\FibonacciCalculate\Reader\bin\Debug\net5.0\Reader.runtimeconfig.json
+C:\Users\tarong\source\repos\FibonacciCalculate\Reader\bin\Debug\net5.0\Reader.runtimeconfig.dev.json
+C:\Users\tarong\source\repos\FibonacciCalculate\Reader\bin\Debug\net5.0\Reader.dll
+C:\Users\tarong\source\repos\FibonacciCalculate\Reader\bin\Debug\net5.0\ref\Reader.dll
+C:\Users\tarong\source\repos\FibonacciCalculate\Reader\bin\Debug\net5.0\Reader.pdb
+C:\Users\tarong\source\repos\FibonacciCalculate\Reader\obj\Debug\net5.0\Reader.csproj.AssemblyReference.cache
+C:\Users\tarong\source\repos\FibonacciCalculate\Reader\obj\Debug\net5.0\Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarong\source\repos\FibonacciCalculate\Reader\obj\Debug\net5.0\Reader.AssemblyInfoInputs.cache
+C:\Users\tarong\source\repos\FibonacciCalculate\Reader\obj\Debug\net5.0\Reader.AssemblyInfo.cs
+C:\Users\tarong\source\repos\FibonacciCalculate\Reader\obj\Debug\net5.0\Reader.csproj.CoreCompileInputs.cache
+C:\Users\tarong\source\repos\FibonacciCalculate\Reader\obj\Debug\net5.0\Reader.dll
+C:\Users\tarong\source\repos\FibonacciCalculate\Reader\obj\Debug\net5.0\ref\Reader.dll
+C:\Users\tarong\source\repos\FibonacciCalculate\Reader\obj\Debug\net5.0\Reader.pdb
+C:\Users\tarong\source\repos\FibonacciCalculate\Reader\obj\Debug\net5.0\Reader.genruntimeconfig.cache

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfCarCatalogApp", "WpfCarCatalogApp\WpfCarCatalogApp.csproj", "{4B2625EB-EA76-4EB2-893A-3B975D8F9205}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Moduls", "Moduls", "{4177B785-5118-427E-855F-6BD3F5805785}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shered", "Shered", "{54AFD97E-28B8-4F25-A146-403DA02934FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatalogModul", "CatalogModul\CatalogModul.csproj", "{027CD3E0-8757-4153-8DB0-8520D06BC808}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderModul", "OrderModul\OrderModul.csproj", "{1E29C1E0-87D1-4387-8365-397D9E992047}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfShered", "WpfShered\WpfShered.csproj", "{AF94B457-462A-4B33-BAD6-24F124F47836}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAO", "DAO", "{3D79170F-D817-4D9B-AD37-EA783ADD40AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{AA6F4FEF-1ACF-4907-931C-587FEB203481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B2625EB-EA76-4EB2-893A-3B975D8F9205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2625EB-EA76-4EB2-893A-3B975D8F9205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2625EB-EA76-4EB2-893A-3B975D8F9205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2625EB-EA76-4EB2-893A-3B975D8F9205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{027CD3E0-8757-4153-8DB0-8520D06BC808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027CD3E0-8757-4153-8DB0-8520D06BC808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027CD3E0-8757-4153-8DB0-8520D06BC808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027CD3E0-8757-4153-8DB0-8520D06BC808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E29C1E0-87D1-4387-8365-397D9E992047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E29C1E0-87D1-4387-8365-397D9E992047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E29C1E0-87D1-4387-8365-397D9E992047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E29C1E0-87D1-4387-8365-397D9E992047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF94B457-462A-4B33-BAD6-24F124F47836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF94B457-462A-4B33-BAD6-24F124F47836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF94B457-462A-4B33-BAD6-24F124F47836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF94B457-462A-4B33-BAD6-24F124F47836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA6F4FEF-1ACF-4907-931C-587FEB203481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6F4FEF-1ACF-4907-931C-587FEB203481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6F4FEF-1ACF-4907-931C-587FEB203481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6F4FEF-1ACF-4907-931C-587FEB203481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{027CD3E0-8757-4153-8DB0-8520D06BC808} = {4177B785-5118-427E-855F-6BD3F5805785}
+		{1E29C1E0-87D1-4387-8365-397D9E992047} = {4177B785-5118-427E-855F-6BD3F5805785}
+		{AF94B457-462A-4B33-BAD6-24F124F47836} = {54AFD97E-28B8-4F25-A146-403DA02934FB}
+		{AA6F4FEF-1ACF-4907-931C-587FEB203481} = {3D79170F-D817-4D9B-AD37-EA783ADD40AC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F5A3681-4088-42CF-A386-FEC912378172}
+	EndGlobalSection
+EndGlobal

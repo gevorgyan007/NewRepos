@@ -1,0 +1,11 @@
+C:\Users\tarong\source\repos\WpfVehicleApp\WpfShered\bin\Debug\net5.0-windows\WpfShered.deps.json
+C:\Users\tarong\source\repos\WpfVehicleApp\WpfShered\bin\Debug\net5.0-windows\WpfShered.dll
+C:\Users\tarong\source\repos\WpfVehicleApp\WpfShered\bin\Debug\net5.0-windows\ref\WpfShered.dll
+C:\Users\tarong\source\repos\WpfVehicleApp\WpfShered\bin\Debug\net5.0-windows\WpfShered.pdb
+C:\Users\tarong\source\repos\WpfVehicleApp\WpfShered\obj\Debug\net5.0-windows\WpfShered.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarong\source\repos\WpfVehicleApp\WpfShered\obj\Debug\net5.0-windows\WpfShered.AssemblyInfoInputs.cache
+C:\Users\tarong\source\repos\WpfVehicleApp\WpfShered\obj\Debug\net5.0-windows\WpfShered.AssemblyInfo.cs
+C:\Users\tarong\source\repos\WpfVehicleApp\WpfShered\obj\Debug\net5.0-windows\WpfShered.csproj.CoreCompileInputs.cache
+C:\Users\tarong\source\repos\WpfVehicleApp\WpfShered\obj\Debug\net5.0-windows\WpfShered.dll
+C:\Users\tarong\source\repos\WpfVehicleApp\WpfShered\obj\Debug\net5.0-windows\ref\WpfShered.dll
+C:\Users\tarong\source\repos\WpfVehicleApp\WpfShered\obj\Debug\net5.0-windows\WpfShered.pdb

@@ -1,0 +1,16 @@
+C:\Users\tarong\source\repos\ClientTcp\ServerTcp\bin\Debug\net5.0\ServerTcp.exe
+C:\Users\tarong\source\repos\ClientTcp\ServerTcp\bin\Debug\net5.0\ServerTcp.deps.json
+C:\Users\tarong\source\repos\ClientTcp\ServerTcp\bin\Debug\net5.0\ServerTcp.runtimeconfig.json
+C:\Users\tarong\source\repos\ClientTcp\ServerTcp\bin\Debug\net5.0\ServerTcp.runtimeconfig.dev.json
+C:\Users\tarong\source\repos\ClientTcp\ServerTcp\bin\Debug\net5.0\ServerTcp.dll
+C:\Users\tarong\source\repos\ClientTcp\ServerTcp\bin\Debug\net5.0\ref\ServerTcp.dll
+C:\Users\tarong\source\repos\ClientTcp\ServerTcp\bin\Debug\net5.0\ServerTcp.pdb
+C:\Users\tarong\source\repos\ClientTcp\ServerTcp\obj\Debug\net5.0\ServerTcp.csproj.AssemblyReference.cache
+C:\Users\tarong\source\repos\ClientTcp\ServerTcp\obj\Debug\net5.0\ServerTcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarong\source\repos\ClientTcp\ServerTcp\obj\Debug\net5.0\ServerTcp.AssemblyInfoInputs.cache
+C:\Users\tarong\source\repos\ClientTcp\ServerTcp\obj\Debug\net5.0\ServerTcp.AssemblyInfo.cs
+C:\Users\tarong\source\repos\ClientTcp\ServerTcp\obj\Debug\net5.0\ServerTcp.csproj.CoreCompileInputs.cache
+C:\Users\tarong\source\repos\ClientTcp\ServerTcp\obj\Debug\net5.0\ServerTcp.dll
+C:\Users\tarong\source\repos\ClientTcp\ServerTcp\obj\Debug\net5.0\ref\ServerTcp.dll
+C:\Users\tarong\source\repos\ClientTcp\ServerTcp\obj\Debug\net5.0\ServerTcp.pdb
+C:\Users\tarong\source\repos\ClientTcp\ServerTcp\obj\Debug\net5.0\ServerTcp.genruntimeconfig.cache

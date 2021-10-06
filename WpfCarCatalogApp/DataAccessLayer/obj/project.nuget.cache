@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m1l//8F6Q6KHMdVpZa5W4Pl75MB4bQw7R8cPwkPdN5ihPpq4CgTfHQdRMmPUsMSz+APnbwU4aWFGQfOhnUu6RA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tarong\\source\\repos\\WpfCarCatalogApp\\DataAccessLayer\\DataAccessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tarong\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

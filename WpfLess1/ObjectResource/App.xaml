@@ -1,0 +1,13 @@
+﻿<Application x:Class="ObjectResource.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ObjectResource"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="BigButtonStyle">
+            <!--<Setter Property="Control.FontFamili" Value=""/>-->
+            <Setter Property="Control.FontSize" Value="25 "/>
+            <Setter Property="Control.FontWeight" Value="Bold"/>
+        </Style>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WLX1OXJJB3R2+1b0PkY8xzPeTDBhFViVsdAaO1TvtD1V7jiPLOWVFHq1swjZoEgSWktqWAbv58RgvqigOV1C0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tarong\\source\\repos\\WpfPrismApplication\\WpfShered\\WpfShered.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tarong\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

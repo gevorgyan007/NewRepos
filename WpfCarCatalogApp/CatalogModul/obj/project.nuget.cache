@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D7+NHqGzFpK1bQL4xGIiUZ7WSpNUMmgGxtF9TS9a+SI0pbL7Vfv0fFBpz5DGKIDnCKsn0Y2OD7b0zZ7H5plFSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tarong\\source\\repos\\WpfCarCatalogApp\\CatalogModul\\CatalogModul.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tarong\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\tarong\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\tarong\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="WpfEmployeeApp.Views.GeneralView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfEmployeeApp.Views" 
+             xmlns:modelview="clr-namespace:WpfEmployeeApp.ModelView" 
+             d:DataContext="{d:DesignInstance Type=modelview:EmployeesViewModel}"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" >
+    
+    <Grid >
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width ="Auto"/>
+            <ColumnDefinition Width ="Auto"/>
+        </Grid.ColumnDefinitions>
+        
+        <StackPanel >
+            <TextBlock  Text="first Name"/>
+            <TextBlock  Text="Last Name"/>
+            <TextBlock  Text="Age"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" DataContext="{Binding SelectedEmployee}">
+            <TextBox Height="20" Width="90" Text ="{Binding FirstName}"  />
+            <TextBox Height="20" Width="90" Text ="{Binding LastName}" />
+            <TextBox Height="20" Width="90" Text ="{Binding Age}" />
+        </StackPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,15 @@
+C:\Users\tarong\source\repos\WpfCarCatalogApp\DataAccessLayer\bin\Debug\net5.0-windows\DataAccessLayer.deps.json
+C:\Users\tarong\source\repos\WpfCarCatalogApp\DataAccessLayer\bin\Debug\net5.0-windows\DataAccessLayer.dll
+C:\Users\tarong\source\repos\WpfCarCatalogApp\DataAccessLayer\bin\Debug\net5.0-windows\ref\DataAccessLayer.dll
+C:\Users\tarong\source\repos\WpfCarCatalogApp\DataAccessLayer\bin\Debug\net5.0-windows\DataAccessLayer.pdb
+C:\Users\tarong\source\repos\WpfCarCatalogApp\DataAccessLayer\obj\Debug\net5.0-windows\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\tarong\source\repos\WpfCarCatalogApp\DataAccessLayer\obj\Debug\net5.0-windows\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarong\source\repos\WpfCarCatalogApp\DataAccessLayer\obj\Debug\net5.0-windows\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\tarong\source\repos\WpfCarCatalogApp\DataAccessLayer\obj\Debug\net5.0-windows\DataAccessLayer.AssemblyInfo.cs
+C:\Users\tarong\source\repos\WpfCarCatalogApp\DataAccessLayer\obj\Debug\net5.0-windows\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\tarong\source\repos\WpfCarCatalogApp\DataAccessLayer\obj\Debug\net5.0-windows\DataAccessLayer.dll
+C:\Users\tarong\source\repos\WpfCarCatalogApp\DataAccessLayer\obj\Debug\net5.0-windows\ref\DataAccessLayer.dll
+C:\Users\tarong\source\repos\WpfCarCatalogApp\DataAccessLayer\obj\Debug\net5.0-windows\DataAccessLayer.pdb
+C:\Users\tarong\source\repos\WpfCarCatalogApp\DataAccessLayer\bin\Debug\net5.0-windows\WpfShered.dll
+C:\Users\tarong\source\repos\WpfCarCatalogApp\DataAccessLayer\bin\Debug\net5.0-windows\WpfShered.pdb
+C:\Users\tarong\source\repos\WpfCarCatalogApp\DataAccessLayer\obj\Debug\net5.0-windows\DataAccessLayer.csproj.CopyComplete

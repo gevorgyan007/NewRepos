@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BCuTZJi9PAxzYoYKzOXBAnu5cwNP3l+YPeK5JfzRJ7GnIzYph6pNoVFjsa4DlU4BX0cIlSQO7c6IewSpfvWDhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tarong\\source\\repos\\MocktEST\\MocktEST\\CunsomerServiceLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tarong\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

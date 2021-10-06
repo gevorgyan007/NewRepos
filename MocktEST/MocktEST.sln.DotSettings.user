@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4827fd5f_002D063d_002D4aae_002Dafb4_002D7e1fb292ec22/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Create_BronzeCustomer_ShouldBeCallSaveMethod #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::7EC7362A-F55B-450E-A8F0-40BC703F53E7::net5.0::CunsomerServiceLib.CunsomerServiceTests.Create_BronzeCustomer_ShouldBeCallSaveMethod&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b275ff1e_002Defc5_002D4976_002Da1e4_002Ddf2f4dc5bade/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Create_BronzeCustomer_ShouldBeCallSaveMethod" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::7EC7362A-F55B-450E-A8F0-40BC703F53E7::net5.0::CunsomerServiceLib.CunsomerServiceTests.Create_Exception_ShouldBeThrow&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

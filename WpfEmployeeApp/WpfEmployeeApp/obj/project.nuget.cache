@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4B/uxfja9e47Gj8OniO2zqzUCHCTa1M+dbm5dRYIy5/lHalLkCabXvvAH3oyK6mkYu0Sz8rm1+gJsaKsZ639OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tarong\\source\\repos\\WpfEmployeeApp\\WpfEmployeeApp\\WpfEmployeeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tarong\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

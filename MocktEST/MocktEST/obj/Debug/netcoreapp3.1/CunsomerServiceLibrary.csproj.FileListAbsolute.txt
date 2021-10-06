@@ -1,0 +1,13 @@
+C:\Users\tarong\source\repos\MocktEST\MocktEST\bin\Debug\netcoreapp3.1\CunsomerServiceLibrary.exe
+C:\Users\tarong\source\repos\MocktEST\MocktEST\bin\Debug\netcoreapp3.1\CunsomerServiceLibrary.deps.json
+C:\Users\tarong\source\repos\MocktEST\MocktEST\bin\Debug\netcoreapp3.1\CunsomerServiceLibrary.runtimeconfig.json
+C:\Users\tarong\source\repos\MocktEST\MocktEST\bin\Debug\netcoreapp3.1\CunsomerServiceLibrary.runtimeconfig.dev.json
+C:\Users\tarong\source\repos\MocktEST\MocktEST\bin\Debug\netcoreapp3.1\CunsomerServiceLibrary.dll
+C:\Users\tarong\source\repos\MocktEST\MocktEST\bin\Debug\netcoreapp3.1\CunsomerServiceLibrary.pdb
+C:\Users\tarong\source\repos\MocktEST\MocktEST\obj\Debug\netcoreapp3.1\CunsomerServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\tarong\source\repos\MocktEST\MocktEST\obj\Debug\netcoreapp3.1\CunsomerServiceLibrary.AssemblyInfoInputs.cache
+C:\Users\tarong\source\repos\MocktEST\MocktEST\obj\Debug\netcoreapp3.1\CunsomerServiceLibrary.AssemblyInfo.cs
+C:\Users\tarong\source\repos\MocktEST\MocktEST\obj\Debug\netcoreapp3.1\CunsomerServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tarong\source\repos\MocktEST\MocktEST\obj\Debug\netcoreapp3.1\CunsomerServiceLibrary.dll
+C:\Users\tarong\source\repos\MocktEST\MocktEST\obj\Debug\netcoreapp3.1\CunsomerServiceLibrary.pdb
+C:\Users\tarong\source\repos\MocktEST\MocktEST\obj\Debug\netcoreapp3.1\CunsomerServiceLibrary.genruntimeconfig.cache

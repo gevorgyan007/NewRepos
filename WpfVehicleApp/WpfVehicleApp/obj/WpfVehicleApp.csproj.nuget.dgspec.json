@@ -1,0 +1,358 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\WpfVehicleApp\\WpfVehicleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\CatalogModul\\CatalogModul.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\CatalogModul\\CatalogModul.csproj",
+        "projectName": "CatalogModul",
+        "projectPath": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\CatalogModul\\CatalogModul.csproj",
+        "packagesPath": "C:\\Users\\tarong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\CatalogModul\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tarong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\DataAccessLayer\\DataAccessLayer.csproj"
+              },
+              "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\WpfShered\\WpfShered.csproj": {
+                "projectPath": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\WpfShered\\WpfShered.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Prism.Core": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\tarong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tarong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\OrderModul\\OrderModul.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\OrderModul\\OrderModul.csproj",
+        "projectName": "OrderModul",
+        "projectPath": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\OrderModul\\OrderModul.csproj",
+        "packagesPath": "C:\\Users\\tarong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\OrderModul\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tarong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\CatalogModul\\CatalogModul.csproj": {
+                "projectPath": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\CatalogModul\\CatalogModul.csproj"
+              },
+              "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\WpfShered\\WpfShered.csproj": {
+                "projectPath": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\WpfShered\\WpfShered.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Prism.Core": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\WpfShered\\WpfShered.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\WpfShered\\WpfShered.csproj",
+        "projectName": "WpfShered",
+        "projectPath": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\WpfShered\\WpfShered.csproj",
+        "packagesPath": "C:\\Users\\tarong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\WpfShered\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tarong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Prism.Core": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\WpfVehicleApp\\WpfVehicleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\WpfVehicleApp\\WpfVehicleApp.csproj",
+        "projectName": "WpfVehicleApp",
+        "projectPath": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\WpfVehicleApp\\WpfVehicleApp.csproj",
+        "packagesPath": "C:\\Users\\tarong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\WpfVehicleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tarong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\CatalogModul\\CatalogModul.csproj": {
+                "projectPath": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\CatalogModul\\CatalogModul.csproj"
+              },
+              "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\OrderModul\\OrderModul.csproj": {
+                "projectPath": "C:\\Users\\tarong\\source\\repos\\WpfVehicleApp\\OrderModul\\OrderModul.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Prism.Core": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "Prism.Unity": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

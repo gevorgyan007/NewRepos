@@ -1,0 +1,17 @@
+C:\Users\tarong\source\repos\PrismApp\SecondProj\bin\Debug\net5.0-windows\SecondProj.deps.json
+C:\Users\tarong\source\repos\PrismApp\SecondProj\bin\Debug\net5.0-windows\SecondProj.dll
+C:\Users\tarong\source\repos\PrismApp\SecondProj\bin\Debug\net5.0-windows\ref\SecondProj.dll
+C:\Users\tarong\source\repos\PrismApp\SecondProj\bin\Debug\net5.0-windows\SecondProj.pdb
+C:\Users\tarong\source\repos\PrismApp\SecondProj\obj\Debug\net5.0-windows\SecondProj.csproj.AssemblyReference.cache
+C:\Users\tarong\source\repos\PrismApp\SecondProj\obj\Debug\net5.0-windows\UserControl2.g.cs
+C:\Users\tarong\source\repos\PrismApp\SecondProj\obj\Debug\net5.0-windows\SecondProj_MarkupCompile.cache
+C:\Users\tarong\source\repos\PrismApp\SecondProj\obj\Debug\net5.0-windows\SecondProj_MarkupCompile.lref
+C:\Users\tarong\source\repos\PrismApp\SecondProj\obj\Debug\net5.0-windows\UserControl2.baml
+C:\Users\tarong\source\repos\PrismApp\SecondProj\obj\Debug\net5.0-windows\SecondProj.g.resources
+C:\Users\tarong\source\repos\PrismApp\SecondProj\obj\Debug\net5.0-windows\SecondProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarong\source\repos\PrismApp\SecondProj\obj\Debug\net5.0-windows\SecondProj.AssemblyInfoInputs.cache
+C:\Users\tarong\source\repos\PrismApp\SecondProj\obj\Debug\net5.0-windows\SecondProj.AssemblyInfo.cs
+C:\Users\tarong\source\repos\PrismApp\SecondProj\obj\Debug\net5.0-windows\SecondProj.csproj.CoreCompileInputs.cache
+C:\Users\tarong\source\repos\PrismApp\SecondProj\obj\Debug\net5.0-windows\SecondProj.dll
+C:\Users\tarong\source\repos\PrismApp\SecondProj\obj\Debug\net5.0-windows\ref\SecondProj.dll
+C:\Users\tarong\source\repos\PrismApp\SecondProj\obj\Debug\net5.0-windows\SecondProj.pdb

@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="CatalogModul.Views.AddCarView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CatalogModul.Views" 
+             xmlns:viewmodels="clr-namespace:CatalogModul.ViewModels" 
+             d:DataContext="{d:DesignInstance Type=viewmodels:AddCarViewModel}"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <StackPanel Grid.Column="1">
+            <TextBlock FontWeight="Bold" Text="Make"/>
+            <ComboBox ItemsSource="{Binding CarType}" Name="MakesBox"
+                      SelectedIndex="0" 
+                      DisplayMemberPath="Name" 
+                      SelectedItem="{Binding Make}"/>
+            
+            <TextBlock FontWeight="Bold" Text="Model"/>
+
+            <ComboBox ItemsSource="{Binding ElementName=MakesBox, Path=SelectedItem.Models}" 
+                      SelectedIndex="0" 
+                      DisplayMemberPath="Name" 
+                      SelectedItem="{Binding Model}"/>
+            
+            <TextBlock FontWeight="Bold" Text="Year"/>
+            <TextBox  Text ="{Binding Year}"/>
+            <TextBlock FontWeight="Bold" Text="Color"/>
+            <TextBox  Text ="{Binding Color}"/>
+            <TextBlock FontWeight="Bold" Text="Price"/>
+            <TextBox  Text ="{Binding Price}"/>
+
+            <Button HorizontalAlignment="Right" 
+                    Content="Create Car"
+                    Width="100"
+                    Command="{Binding CreateCommand}"
+                    />
+        </StackPanel>
+    </Grid>
+</UserControl>
